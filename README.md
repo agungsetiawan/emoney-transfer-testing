@@ -1,24 +1,3 @@
-# README
+# Rails Model and Service Object Testing Using RSpec and FactoryBot. Case : E-money Transfer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repository is used as an example on a problem I faced when dealing with Rails callbacks as I described on a blog post here https://medium.com/@agungsetiawan/rails-model-and-service-object-testing-using-rspec-and-factorybot-case-e-money-transfer-a60865b48baf
